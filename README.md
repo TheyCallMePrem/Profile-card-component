@@ -24,8 +24,6 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ![](screenshot.JPG)
 
 ### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [Click](https://theycallmeprem.github.io/Profile-card-component/)
 
 ## My process
